@@ -247,7 +247,7 @@ medium
 
 Баг-репорты [здесь](https://github.com/AlinkaQA/QA-trainee-assignment-winter-2025/blob/main/BUGS.md)
 
-Инструкция по запуску автотестов [здесь]()
+Инструкция по запуску автотестов [здесь](https://github.com/AlinkaQA/QA-trainee-assignment-winter-2025/blob/main/manual.md)
 
 
 https://github.com/user-attachments/assets/43ddb5ab-57a6-4d51-af8b-d80c1abb72df
