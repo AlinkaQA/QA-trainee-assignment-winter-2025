@@ -13,7 +13,8 @@
 <summary> 1 задание (баг-репорты) </summary> 
 
 Перед вами скриншот страницы Авито с результатами поиска. Изучите его, перечислите все имеющиеся баги, и укажите их приоритет (high, medium, low).
-![411355439-a8c18dc6-bd16-4ba0-b152-2762922d542c](https://github.com/user-attachments/assets/736f3b62-750d-4306-b861-c5c97a91dc35)
+![411355439-a8c18dc6-bd16-4ba0-b152-2762922d542c](https://github.com/user-attachments/assets/ec71da1a-6232-4635-8972-29d85aaf315b)
+
 
 
 ***
