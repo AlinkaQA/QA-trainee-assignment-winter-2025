@@ -275,7 +275,11 @@ medium
 Инструкция по запуску автотестов [здесь](https://github.com/AlinkaQA/QA-trainee-assignment-winter-2025/blob/main/manual.md)
 
 
-https://github.com/user-attachments/assets/43ddb5ab-57a6-4d51-af8b-d80c1abb72df
+
+
+https://github.com/user-attachments/assets/63396831-24a4-46ec-bbb8-fdb327d46f2f
+
+
 
 
 ***
